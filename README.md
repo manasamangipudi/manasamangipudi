@@ -10,19 +10,16 @@
 
 - **Bagging-Based INRs for Image Denoising**  
   Explored bias-variance tradeoffs using SparseMLPs, Fourier mappings, and bagging. Benchmarked against BM3D, DIP, and diffusion models.  
-  [🔗 Code Repo](#) | [📄 Paper Draft / Slides](#)
 
 - **Multimodal Disease Detection**  
   Combined Vision Transformer (ViT) + BERT for disease detection from chest X-rays + radiology reports.  
-  [🔗 Repo](#)
+
 
 - **Brain MRI Anomaly Detection**  
   Built tumor detection pipeline with Diffusion Models + VAEs, custom preprocessing for anomaly localization.  
-  [🔗 Repo](#)
 
 - **Resume Improvement System**  
   Fine-tuned Flan-T5 with LoRA + Sentence-BERT + FAISS. Deployed with FastAPI + AWS Lambda.  
-  [🔗 Repo](#)
 
 ---
 
